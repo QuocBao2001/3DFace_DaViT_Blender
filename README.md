@@ -1,6 +1,18 @@
 # 3DFace_DaViT_Blender
 3D face reconstruction from single image using Dual Vision Transformer network and plugin for Blender
 
+<p align="center"> 
+<img src="images/texture_result.png" width="500">
+</p>
+<p align="center">Our texture reconstruction result. From left to right of each view: direct projected texture, fine texture, coarse 3DMM texture.<p align="center">
+
+<p align="center"> 
+<img src="images/shape_result.png" width="800">
+</p>
+<p align="center">Our shape reconstruction results.<p align="center">
+
+Demo Video: https://www.youtube.com/watch?v=qp1f-0poktE
+
 **In processing, please wait**
 
 ## Introduction
