@@ -1,11 +1,12 @@
-# 3DFace_DaViT_Blender
+# 3DFace_DaViT_Blender - CoFiT-3D FaRe
 
-**📌 Please note: This project is no longer actively maintained. It remains public as a reference for those interested, but dependencies or installation steps may be outdated.
-**
+**📌 Please note: This project is no longer actively maintained. It remains public as a reference for those interested, but dependencies or installation steps may be outdated.**
 
 this repo are available for non-commercial scientific research purposes only.
 
 3D face reconstruction from single image using Dual Vision Transformer network and plugin for Blender
+
+Paper: [A New Coarse-To-Fine 3D Face Reconstruction Method Based On 3DMM Flame and Transformer: CoFiT-3D FaRe](https://dl.acm.org/doi/10.1145/3628797.3628960)
 
 <p align="center"> 
 <img src="images/texture_result.png" width="500">
@@ -23,16 +24,6 @@ Demo Video: https://www.youtube.com/watch?v=qp1f-0poktE
 
 This source code enables the reconstruction of a three-dimensional human face model from a two-dimensional input image. The model employs the 3DMM Flame and the deep learning network DaViT. Moreover, the source code includes a plugin within the Blender software, enhancing its usability for users.
 
-## Getting Started
-
-please read [INSTALL.md](ReadMe/INSTALL.md) for more details. (please wait)
-
-## Evaluation
-
-
-## Training
-
-please read [TRAINING.md](ReadMe/TRAINING.md) for more details. (please wait)
 
 ## Acknowledgements
 
