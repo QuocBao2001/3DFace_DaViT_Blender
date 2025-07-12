@@ -1,6 +1,7 @@
 # 3DFace_DaViT_Blender
 
-**In processing, please wait**
+**📌 Please note: This project is no longer actively maintained. It remains public as a reference for those interested, but dependencies or installation steps may be outdated.
+**
 
 this repo are available for non-commercial scientific research purposes only.
 
